@@ -1,6 +1,6 @@
 ---
 title: Meteor Fantasy
-subtitle: Editorial Design
+subtitle: Ideation and Product Launch
 date: '2020-04-10'
 thumb_image: images/work-book-cover-1-thumb.jpg
 thumb_image_alt: The Book preview
