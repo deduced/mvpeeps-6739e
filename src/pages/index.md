@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      This is an Award Winning Agency Based in Charlotte and Focusing on Getting
+      We are an Award Winning Agency Based in Charlotte and Focusing on Getting
       Your Startup To Market.
     content: >
       We get your product to market fast. We work closely with you and your team
