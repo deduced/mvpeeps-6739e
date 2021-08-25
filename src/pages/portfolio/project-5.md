@@ -1,6 +1,6 @@
 ---
 title: Supermonedero.com
-subtitle: Editorial Design
+subtitle: Ideation and Product Launch
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview
